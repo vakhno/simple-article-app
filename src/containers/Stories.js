@@ -30,4 +30,4 @@ function Stories() {
 	)
 }
 
-export default Stories
+export default memo(Stories)
